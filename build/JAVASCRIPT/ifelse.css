@@ -1,0 +1,17 @@
+body{
+    font-size: 3em;
+}
+label{
+    color: rgb(153, 42, 157);
+}
+input{
+    color: purple;
+}
+p{
+    color: rgb(165, 59, 142);
+}
+button{
+    color: rgb(66, 5, 5);
+    background-color: pink;
+    border-radius: 10px;
+}
